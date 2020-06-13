@@ -1,2 +1,5 @@
-# GEOS 518: Hydrologic and Environmental Systems Modeling
+# Welcome! 
+
+This is the home page for **Hydrologic and Environmental Systems Modeling.**
+
 
