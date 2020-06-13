@@ -9,19 +9,22 @@ At the end of this module, you will be able to...
 ## XX.1 Introduction
 
 
-## XX.2 The processes
+## XX.2 Readings and quiz
 
 
-## XX.3 A simple conceptual model
+## XX.3 The processes
 
 
-## XX.4 A slightly more complicated model
+## XX.4 A simple conceptual model
 
 
-## XX.5 A process-based model
+## XX.5 A slightly more complicated model
 
 
-## XX.6 Example code
+## XX.6 A process-based model
 
 
-## XX.7 Exercise
+## XX.7 Example code
+
+
+## XX.8 Exercise
