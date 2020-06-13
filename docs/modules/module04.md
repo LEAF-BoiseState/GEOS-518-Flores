@@ -1,3 +1,5 @@
+-> | [Home](./index.md) | [Module List](./module_listing.md) | <-
+
 # Module 04: Soil moisture
 
 ## 04.0 Module learning outcomes
