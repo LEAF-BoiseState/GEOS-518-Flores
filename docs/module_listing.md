@@ -3,7 +3,7 @@
 0. Class overview and introduction
 1. Model complexity: representing processes
 2. Model complexity: representing space and time
-3. [Soil moisture](../modules/module04.md)
+3. [Soil moisture](./modules/module04.md)
 4. Evapotranspiration
 5. Groundwater
 6. Hydrograph routing
