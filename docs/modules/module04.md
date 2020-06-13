@@ -6,10 +6,10 @@ At the end of this module, you will be able to...
 2. LO 2
 3. LO 3
 
-### 04.1 Introduction
+## 04.1 Introduction
 
 
-#### 04.2 Readings and quiz
+## 04.2 Readings and quiz
 
 
 ## 04.3 The processes
