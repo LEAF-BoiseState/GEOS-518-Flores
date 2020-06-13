@@ -1,4 +1,4 @@
--> | [Home](./index.md) | [Module List](./module_listing.md) | <-
+|: [Home](../index.md) :|: [Module List](../module_listing.md) :|
 
 # Module XX: Module title
 
